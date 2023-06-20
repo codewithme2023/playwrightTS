@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test":"cucumber-js test"
+    "test": "cucumber-js test"
   },
   "keywords": [],
   "author": "",
@@ -12,6 +12,7 @@
   "devDependencies": {
     "@cucumber/cucumber": "^9.1.2",
     "@playwright/test": "^1.35.1",
+    "cucumber": "^6.0.7",
     "ts-node": "^10.9.1"
   }
 }
