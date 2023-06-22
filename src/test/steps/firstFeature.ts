@@ -1,10 +1,9 @@
-import {Given} from "@cucumber/cucumber"
+import { Given } from '@cucumber/cucumber';
 
-
-
-Given('the user opens Google', async function () {
-    // Write code here that turns the phrase above into concrete actions
-    console.log("happy birthday");
-  });
-
-  
+Given('User opens Google', async function () {
+  console.log('happy birthday');
+  console.log('happy birthday');
+  console.log('happy birthday');
+  console.log('happy birthday');
+  console.log('happy birthday');
+});

@@ -1,4 +1,4 @@
 Feature: User Login
 
-  Scenario: User opens Google
-    Given the user opens Google
+Scenario: User opens Google
+  Given User opens Google
